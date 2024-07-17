@@ -1,5 +1,6 @@
 # DevOps-1214-1
  02 Version Control System. Git - Github Tasks
+ 
     1) Register in to Github
     2) Create ssh key or tokens and add him to github
     3) create repository
